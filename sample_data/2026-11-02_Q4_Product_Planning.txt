@@ -1,0 +1,24 @@
+MEETING: Q4 Product Planning
+DATE: 2026-11-02
+ATTENDEES: Priya Sharma (PM), Rahul Verma (Eng Lead), Anita Desai (Design), Karan Mehta (Finance), Sofia Lopez (Marketing)
+
+AGENDA ITEM 1: Mobile App v2 Scope
+[00:02:10] Priya: Let's lock the scope for the mobile app v2. The three headline features are saved carts, UPI payments and push notifications.
+[00:05:45] Rahul: Saved carts and notifications are low risk. UPI payments depend on the payment vendor's SDK, which we have not evaluated deeply.
+[00:08:30] Priya: Agreed. Target launch date is December 15 for now.
+
+AGENDA ITEM 2: Payment Vendor
+[00:12:05] Rahul: I compared three vendors. Razorpay has the best documentation and the lowest transaction fee.
+[00:15:40] Karan: Finance is comfortable with Razorpay as long as the total project budget stays under 18 lakh rupees.
+DECISION: The team agreed to go with Razorpay as the payment vendor and to cap the total project budget at INR 18 lakh.
+
+AGENDA ITEM 3: Design and Marketing
+[00:21:00] Anita: I need the final API spec before I can finish the checkout screens. Mockups for all screens can be ready by November 10 if the spec arrives on time.
+[00:25:15] Sofia: I will need about a week after the mockups to prepare the launch campaign. I'll draft the launch plan and share it by November 13.
+
+ACTION ITEMS:
+- Rahul Verma to finalize the API specification by November 6.
+- Anita Desai to deliver design mockups by November 10.
+- Karan Mehta to get formal budget approval from the CFO by November 12.
+- Sofia Lopez to draft the launch plan by November 13.
+- Priya Sharma to schedule a weekly engineering sync starting next week.

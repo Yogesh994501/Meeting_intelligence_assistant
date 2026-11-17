@@ -1,0 +1,25 @@
+MEETING: Weekly Engineering Sync
+DATE: 2026-11-09
+ATTENDEES: Rahul Verma (Eng Lead), Priya Sharma (PM), Anita Desai (Design), Tomas Rivera (QA)
+
+STATUS UPDATES
+[00:01:30] Rahul: The API specification was finished on November 6 as planned and shared with design.
+[00:03:10] Anita: The mockups will slip. I am waiting on two screens, so the new date for the mockups is November 14.
+
+RISKS AND BLOCKERS
+[00:07:20] Rahul: The Razorpay SDK has a known issue with Android 14 devices. Integrating and fixing it will take longer than planned. I estimate the payment integration will be done by November 25.
+[00:10:05] Tomas: With that timeline I cannot finish regression testing before mid-December. I'd rather not rush it.
+[00:12:40] Priya: Then I don't want to risk a bad launch. Let's move the launch from December 15 to December 22.
+DECISION: Mobile app v2 launch is postponed from December 15 to December 22 because of the Android 14 payment SDK issue.
+
+NEXT STEPS
+[00:16:00] Tomas: I'll write the QA test plan and share it by November 20.
+[00:17:30] Priya: Sofia still hasn't sent the launch plan, so that is still pending. I'll remind her and tell her about the new launch date.
+[00:18:45] Rahul: I'll also set up a staging environment for QA by November 18.
+
+ACTION ITEMS:
+- Rahul Verma: complete Razorpay payment integration by November 25 (in progress).
+- Tomas Rivera: share QA test plan by November 20.
+- Rahul Verma: set up staging environment by November 18.
+- Anita Desai: deliver final mockups by November 14.
+- Priya Sharma: inform Sofia Lopez of the new launch date and follow up on the launch plan (pending).
